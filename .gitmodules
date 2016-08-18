@@ -1,0 +1,3 @@
+[submodule "mod/Adafruit_FONA"]
+	path = mod/Adafruit_FONA
+	url = https://github.com/adafruit/Adafruit_FONA.git
